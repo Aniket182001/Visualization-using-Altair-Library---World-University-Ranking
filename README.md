@@ -1,0 +1,2 @@
+# Visualization-using-Altair-Library---World-University-Ranking
+This project focuses on visualizing and analyzing the World University Ranking dataset using the Altair library. The dataset includes information on various universities, their rankings, and key performance indicators. The project encompasses essential steps such as data cleaning and transformation to ensure the dataset's integrity and usability.
